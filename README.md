@@ -5,9 +5,8 @@
 
 ## Contenido
 
-'''
-    1.Codigos Test ESP32
-    2.Codigos Test Rasp pi Pico
-    3.Codigos HTML y PHP
-'''
+1.Codigos Test ESP32
+2.Codigos Test Rasp pi Pico
+3.Codigos HTML y PHP
+
 _Todo esto es para documentar el proceso_
